@@ -4,6 +4,9 @@ Lib/
 Scripts/
 pyvenv.cfg 
 
+# Ignore project secrets
+.env/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
